@@ -118,7 +118,7 @@ const BLOG = {
     {
       name: '走卒',
       artist: '老姜食话',
-      url: 'https://sharefs.ali.kugou.com/202303242219/89df9fd8b4e79b972974374c51d9daf1/KGTX/CLTX001/db52250d1c6fabe73c008aa353dab38f.mp3',
+      url: 'https://drive.google.com/file/d/1gv-vSyzFlcEFIY5aIb1NNAn_eHtBcdNy/view',
       cover: 'https://imge.kugou.com/stdmusic/150/20220601/20220601105741429741.jpg'
     },
     {
