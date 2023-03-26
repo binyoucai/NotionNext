@@ -124,7 +124,7 @@ const BLOG = {
     {
       name: '陌路逢君',
       artist: '等什么君',
-      url: 'http://music.163.com/song/media/outer/url?id=1412672813.mp3',
+      url: 'https://beiming-1251987650.cos.ap-beijing.myqcloud.com/%E7%AD%89%E4%BB%80%E4%B9%88%E5%90%9B%20-%20%E9%99%8C%E8%B7%AF%E9%80%A2%E5%90%9B.mp3',
       cover: 'https://beiming-1251987650.cos.ap-beijing.myqcloud.com/feish1.jpg'
     },
     {
@@ -154,7 +154,7 @@ const BLOG = {
     {
       name: '声声慢',
       artist: '姚诗诗',
-      url: 'https://beiming-1251987650.cos.ap-beijing.myqcloud.com/%E5%91%A8%E6%9D%B0%E4%BC%A6%20-%20%E9%9D%92%E8%8A%B1%E7%93%B7.mp3',
+      url: 'https://beiming-1251987650.cos.ap-beijing.myqcloud.com/%E5%A7%9A%E8%AF%97%E8%AF%97%20-%20%E5%A3%B0%E5%A3%B0%E6%85%A2.mp3',
       cover: 'https://beiming-1251987650.cos.ap-beijing.myqcloud.com/feish1.jpg'
     }                              
   ],
