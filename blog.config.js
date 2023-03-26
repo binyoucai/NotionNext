@@ -146,13 +146,13 @@ const BLOG = {
       cover: 'https://beiming-1251987650.cos.ap-beijing.myqcloud.com/feish1.jpg'
     },
     {
-      name: '青花瓷.',
+      name: '青花瓷',
       artist: '周杰伦',
       url: 'https://beiming-1251987650.cos.ap-beijing.myqcloud.com/%E5%91%A8%E6%9D%B0%E4%BC%A6%20-%20%E9%9D%92%E8%8A%B1%E7%93%B7.mp3',
       cover: 'https://beiming-1251987650.cos.ap-beijing.myqcloud.com/feish1.jpg'
     },
     {
-      name: '声声慢.',
+      name: '声声慢',
       artist: '姚诗诗',
       url: 'https://beiming-1251987650.cos.ap-beijing.myqcloud.com/%E5%91%A8%E6%9D%B0%E4%BC%A6%20-%20%E9%9D%92%E8%8A%B1%E7%93%B7.mp3',
       cover: 'https://beiming-1251987650.cos.ap-beijing.myqcloud.com/feish1.jpg'
