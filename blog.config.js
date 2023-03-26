@@ -117,16 +117,46 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST: [ // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
       name: '走卒',
-      artist: '老姜食话',
-      url: 'http://rs4njxli4.hn-bkt.clouddn.com/%E6%98%8A%E8%BD%A9%E4%BA%AC%E5%89%A7-%E5%90%B4%E6%98%8A%20-%20%E8%B5%B0%E5%8D%92.mp3',
+      artist: '昊轩京剧-吴昊',
+      url: 'https://beiming-1251987650.cos.ap-beijing.myqcloud.com/%E6%98%8A%E8%BD%A9%E4%BA%AC%E5%89%A7-%E5%90%B4%E6%98%8A%20-%20%E8%B5%B0%E5%8D%92.mp3',
       cover: 'https://imge.kugou.com/stdmusic/150/20220601/20220601105741429741.jpg'
+    },
+    {
+      name: '陌路逢君',
+      artist: '等什么君',
+      url: 'http://music.163.com/song/media/outer/url?id=1412672813.mp3',
+      cover: 'http://p3.music.126.net/RAG1RIUQ--9S-f_tUAJNYg==/109951164616616099.jpg'
+    },
+    {
+      name: ' 风华录',
+      artist: '音频怪物',
+      url: 'https://beiming-1251987650.cos.ap-beijing.myqcloud.com/%E9%9F%B3%E9%A2%91%E6%80%AA%E7%89%A9%20-%20%E9%A3%8E%E5%8D%8E%E5%BD%95.mp3',
+      cover: 'http://p3.music.126.net/RAG1RIUQ--9S-f_tUAJNYg==/109951164616616099.jpg'
     },
     {
       name: '青丝',
       artist: '等什么君',
       url: 'http://music.163.com/song/media/outer/url?id=1412672813.mp3',
       cover: 'http://p3.music.126.net/RAG1RIUQ--9S-f_tUAJNYg==/109951164616616099.jpg'
-    }
+    },
+    {
+      name: '霜雪千年',
+      artist: '萧忆情Alex',
+      url: 'https://beiming-1251987650.cos.ap-beijing.myqcloud.com/%E8%90%A7%E5%BF%86%E6%83%85Alex%20-%20%E9%9C%9C%E9%9B%AA%E5%8D%83%E5%B9%B4.mp3',
+      cover: 'http://p3.music.126.net/RAG1RIUQ--9S-f_tUAJNYg==/109951164616616099.jpg'
+    },
+    {
+      name: '青花瓷.',
+      artist: '周杰伦',
+      url: 'https://beiming-1251987650.cos.ap-beijing.myqcloud.com/%E5%91%A8%E6%9D%B0%E4%BC%A6%20-%20%E9%9D%92%E8%8A%B1%E7%93%B7.mp3',
+      cover: 'http://p3.music.126.net/RAG1RIUQ--9S-f_tUAJNYg==/109951164616616099.jpg'
+    },
+    {
+      name: '声声慢.',
+      artist: '姚诗诗',
+      url: 'https://beiming-1251987650.cos.ap-beijing.myqcloud.com/%E5%91%A8%E6%9D%B0%E4%BC%A6%20-%20%E9%9D%92%E8%8A%B1%E7%93%B7.mp3',
+      cover: 'http://p3.music.126.net/RAG1RIUQ--9S-f_tUAJNYg==/109951164616616099.jpg'
+    }                              
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
   MUSIC_PLAYER_METING_SERVER: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING_SERVER || 'netease', // 音乐平台，[netease, tencent, kugou, xiami, baidu]
