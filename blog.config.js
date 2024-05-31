@@ -12,10 +12,10 @@ const BLOG = {
 
   CUSTOM_MENU: process.env.NEXT_PUBLIC_CUSTOM_MENU || false, // 支持Menu 类型，从3.12.0版本起，各主题将逐步支持灵活的二级菜单配置，替代了原来的Page类型，此配置是试验功能、默认关闭。
 
-  AUTHOR: '小黑客', // 您的昵称 例如 tangly1024
+  AUTHOR: '国际小黑客', // 您的昵称 例如 tangly1024
   BIO: '安全、爬虫和云原生探索者', // 作者简介
   LINK: 'https://xiaoheike.vip', // 网站地址
-  KEYWORDS: '小黑客, 小黑客的博客, 国际小黑客, 云原生博客, 安全小黑客, 小黑客爬虫', // 网站关键词 英文逗号隔开
+  KEYWORDS: '小黑客, 小黑客的博客, 国际小黑客, 云原生博客, 安全小黑客, 爬虫,安全,中间件,SRE', // 网站关键词 英文逗号隔开
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: process.env.NEXT_PUBLIC_CONTACT_EMAIL || 'sunfox0412@gmail.com', // 邮箱地址 例如mail@xiaoheike.vip
   CONTACT_WEIBO: process.env.NEXT_PUBLIC_CONTACT_WEIBO || '', // 你的微博个人主页
